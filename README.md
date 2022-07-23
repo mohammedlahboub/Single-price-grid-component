@@ -1,12 +1,12 @@
 ## Screenshot
-
 ![](./screenshot.jpg)
+
 
 
 ## Links
 - Live Site URL: [Here](https://mohammedlahboub.github.io/Single-price-grid-component)
 
-## My process
+
 
 ## Built with
 
